@@ -4,7 +4,6 @@ numpy
 matplotlib
 seaborn
 components
-pyplot
 streamlit-pandas-profiling
 scipy
 pandas-profiling
